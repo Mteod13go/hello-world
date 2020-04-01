@@ -1,2 +1,2 @@
 # hello-world
-In the begaining
+In the beginning
